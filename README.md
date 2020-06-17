@@ -7,3 +7,4 @@ by Tutorial not complete
 ## Content of table
 - [Chapter 1 - make a cube](./openscad_tutorial_chapter_1/chapter_1.md)
 - [Chapter 2 - scaling a model](./openscad_tutorial_chapter_2/chapter_2.md)
+- [Chapter 3 - make a sphere](./openscad_tutorial_chapter_3/chapter_3.md)
