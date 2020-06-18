@@ -1,7 +1,7 @@
 # Chapter 3 - make a sphere
 
 [Back to HOME](../README.md)<br>
-[Official document Link](https://en.wikibooks.org/wiki/OpenSCAD_Tutorial/Chapter_2)
+[Official document Link](https://en.wikibooks.org/wiki/OpenSCAD_Tutorial/Chapter_3)
 
 ## 1. 구체 만들기
 
