@@ -9,3 +9,4 @@ by Tutorial not complete
 - [Chapter 2 - scaling a model](./openscad_tutorial_chapter_2/chapter_2.md)
 - [Chapter 3 - make a sphere](./openscad_tutorial_chapter_3/chapter_3.md)
 - [Chapter 4 - define your module](./openscad_tutorial_chapter_4/chapter_4.md)
+- [Chapter 5 - import your module](./openscad_tutorial_chapter_5/chapter_5.md)
