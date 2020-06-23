@@ -11,3 +11,4 @@ by Tutorial not complete
 - [Chapter 4 - define your module](./openscad_tutorial_chapter_4/chapter_4.md)
 - [Chapter 5 - import your module](./openscad_tutorial_chapter_5/chapter_5.md)
 - [Chapter 6 - variable and flow control](./openscad_tutorial_chapter_6/chapter_6.md)
+- [Chapter 7 - repeating patterns of parts](./openscad_tutorial_chapter_7/chapter_7.md)
